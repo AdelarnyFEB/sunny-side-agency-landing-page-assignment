@@ -33,7 +33,7 @@ h2{
 }
 
 .gfx-design {
-	background-image: url(../images/mobile/image-graphic-design.jpg);
+	background-image: url(./images/mobile/image-graphic-design.jpg);
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-color: var(--color-light-green);
@@ -43,13 +43,13 @@ h2{
 }
 @media (min-width: 768px) {
 .gfx-design {
-	background-image: url(../images/desktop/image-graphic-design.jpg);
+	background-image: url(./images/desktop/image-graphic-design.jpg);
 	}
 }
 
 
 .photography {
-	background-image: url(../images/mobile/image-photography.jpg);
+	background-image: url(./images/mobile/image-photography.jpg);
 	background-position: top center;
 	background-size: cover;
 	background-color: var(--blue);
