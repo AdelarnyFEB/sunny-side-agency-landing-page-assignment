@@ -36,10 +36,10 @@ h2{
 	background-image: url(./images/mobile/image-graphic-design.jpg);
 	background-position: top center;
 	background-repeat: no-repeat;
-	background-color: var(--color-light-green);
+	background-color: #90D4C6;
 	background-size: cover;
 	padding-top: clamp(400px, 500px, 600px);
-	color: var(--color-dark-green);
+	color: #24554A;
 }
 @media (min-width: 768px) {
 .gfx-design {
@@ -52,10 +52,10 @@ h2{
 	background-image: url(./images/mobile/image-photography.jpg);
 	background-position: top center;
 	background-size: cover;
-	background-color: var(--blue);
+	background-color:#3ebfff;
 	background-repeat: no-repeat;
 	padding-top: clamp(400px, 500px, 600px);
-	color: var(--color-dark-blue);
+	color: #1e546c;
 }
 @media (min-width: 768px) {
 .photography {
